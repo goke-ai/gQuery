@@ -1,0 +1,4 @@
+namespace gquery
+{
+    
+} // namespace gquery

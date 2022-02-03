@@ -1,0 +1,9 @@
+C:/zs/gQuery/src/cpp_query/build/CMakeFiles/Experimental.dir
+C:/zs/gQuery/src/cpp_query/build/CMakeFiles/Nightly.dir
+C:/zs/gQuery/src/cpp_query/build/CMakeFiles/Continuous.dir
+C:/zs/gQuery/src/cpp_query/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/zs/gQuery/src/cpp_query/build/CMakeFiles/cpp_query.dir
+C:/zs/gQuery/src/cpp_query/build/CMakeFiles/PACKAGE.dir
+C:/zs/gQuery/src/cpp_query/build/CMakeFiles/RUN_TESTS.dir
+C:/zs/gQuery/src/cpp_query/build/CMakeFiles/ALL_BUILD.dir
+C:/zs/gQuery/src/cpp_query/build/CMakeFiles/ZERO_CHECK.dir
